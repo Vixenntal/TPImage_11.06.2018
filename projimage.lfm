@@ -1,0 +1,89 @@
+object frmImage: TfrmImage
+  Left = 316
+  Height = 757
+  Top = 177
+  Width = 1000
+  Caption = 'frmImage'
+  ClientHeight = 757
+  ClientWidth = 1000
+  OnCreate = FormCreate
+  LCLVersion = '1.8.2.0'
+  object imgCarre: TImage
+    Left = 20
+    Height = 300
+    Top = 20
+    Width = 300
+  end
+  object btBlack: TButton
+    Left = 16
+    Height = 25
+    Top = 341
+    Width = 75
+    Caption = 'BLACK !'
+    OnClick = btBlackClick
+    TabOrder = 0
+  end
+  object btRed: TButton
+    Left = 241
+    Height = 25
+    Top = 341
+    Width = 75
+    Caption = 'RED !'
+    OnClick = btRedClick
+    TabOrder = 1
+  end
+  object btMulti: TButton
+    Left = 128
+    Height = 25
+    Top = 341
+    Width = 75
+    Caption = 'MULTI !'
+    OnClick = btMultiClick
+    TabOrder = 2
+  end
+  object imgBarre: TImage
+    Left = 350
+    Height = 300
+    Top = 20
+    Width = 300
+  end
+  object btBarre: TButton
+    Left = 472
+    Height = 25
+    Top = 341
+    Width = 75
+    Caption = 'GO !'
+    OnClick = btBarreClick
+    TabOrder = 3
+  end
+  object imgDamier: TImage
+    Left = 680
+    Height = 300
+    Top = 20
+    Width = 300
+  end
+  object btDamier: TButton
+    Left = 800
+    Height = 25
+    Top = 341
+    Width = 75
+    Caption = 'GO !'
+    OnClick = btDamierClick
+    TabOrder = 4
+  end
+  object imgVisage: TImage
+    Left = 20
+    Height = 300
+    Top = 384
+    Width = 300
+  end
+  object btVisage: TButton
+    Left = 128
+    Height = 25
+    Top = 704
+    Width = 75
+    Caption = 'VISAGE !'
+    OnClick = btVisageClick
+    TabOrder = 5
+  end
+end

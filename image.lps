@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="image.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="23"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="projimage.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmImage"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="169"/>
+        <CursorPos X="37" Y="209"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="11" HistoryIndex="10">
+      <Position1>
+        <Filename Value="projimage.pas"/>
+        <Caret Line="97" TopLine="75"/>
+      </Position1>
+      <Position2>
+        <Filename Value="projimage.pas"/>
+        <Caret Line="98" TopLine="76"/>
+      </Position2>
+      <Position3>
+        <Filename Value="projimage.pas"/>
+        <Caret Line="100" TopLine="78"/>
+      </Position3>
+      <Position4>
+        <Filename Value="projimage.pas"/>
+        <Caret Line="136" Column="28" TopLine="100"/>
+      </Position4>
+      <Position5>
+        <Filename Value="projimage.pas"/>
+        <Caret Line="150" Column="25" TopLine="118"/>
+      </Position5>
+      <Position6>
+        <Filename Value="projimage.pas"/>
+        <Caret Line="185" Column="31" TopLine="141"/>
+      </Position6>
+      <Position7>
+        <Filename Value="projimage.pas"/>
+        <Caret Line="170" Column="59" TopLine="143"/>
+      </Position7>
+      <Position8>
+        <Filename Value="projimage.pas"/>
+        <Caret Line="195" Column="18" TopLine="160"/>
+      </Position8>
+      <Position9>
+        <Filename Value="projimage.pas"/>
+        <Caret Line="200" Column="36" TopLine="159"/>
+      </Position9>
+      <Position10>
+        <Filename Value="projimage.pas"/>
+        <Caret Line="201" Column="40" TopLine="161"/>
+      </Position10>
+      <Position11>
+        <Filename Value="projimage.pas"/>
+        <Caret Line="209" Column="19" TopLine="165"/>
+      </Position11>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
